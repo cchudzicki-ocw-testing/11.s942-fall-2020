@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Schedule of Readings
-type: CourseSection
 uid: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2
 ---
 

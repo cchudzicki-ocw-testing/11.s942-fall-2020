@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 4 Reflection
-type: OCWFile
 uid: 5d3a2bd5-2ff6-9c9e-a808-1106d222e53f
 ---

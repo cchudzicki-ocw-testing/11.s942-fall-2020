@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: On the Sounds of Cities
-type: OCWFile
 uid: 595e7bd1-d412-61c3-fb63-78715656f450
 ---

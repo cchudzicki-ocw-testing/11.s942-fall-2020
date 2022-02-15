@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Week 8 Reflection
-type: OCWFile
 uid: ba431e72-f6fb-6d32-8846-021ce84ad3de
 ---

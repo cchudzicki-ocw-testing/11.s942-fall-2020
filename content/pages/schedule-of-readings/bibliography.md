@@ -5,7 +5,6 @@ parent_title: Schedule of Readings
 parent_type: CourseSection
 parent_uid: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2
 title: Bibliography
-type: CourseSection
 uid: 999f0f19-3742-f24d-888f-d64d61fa08c5
 ---
 

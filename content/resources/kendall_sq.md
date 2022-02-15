@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Kendall_Sq.jpg
-type: OCWImage
 uid: d700b883-f367-bdf4-0572-194b090f445b
 ---
