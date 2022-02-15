@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Schedule of Readings
 parent_type: CourseSection
 parent_uid: d3a96d59-67c1-c7d5-a3c9-9b3af686fae2

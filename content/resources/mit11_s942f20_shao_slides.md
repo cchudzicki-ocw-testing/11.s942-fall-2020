@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/595e7bd1d412
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types:
 - Assignments
+ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
