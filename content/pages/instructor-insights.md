@@ -12,7 +12,7 @@ Instructor Insights
 
 Below, Ezra Haber Glenn describes various aspects of how he teaches _11.S942 Wanderings in Psychogeography_.
 
-![Sculptural fountain spraying water on a city street.]({{< resource_file d700b883-f367-bdf4-0572-194b090f445b >}})
+{{< resource d700b883-f367-bdf4-0572-194b090f445b >}}
 
 Students in 11.S942 might encounter this scene while on a psychogeographic wandering around the Kendall Square neighborhood in Cambridge, Massachusetts. (Image courtesy of [bogdantapu](https://flickr.com/photos/bogdantapu/42473485940/in/photolist-27HeHBJ-6eroj-bqmQqs-eN2V7E-owQn4-5AbtS4-bqmQrj-DTNTL6-6kTuH7-7TDtp4-5AfLpm-DEFbFE-4dtsLe-4vZeKA-DmwgVb-D2YKtd-e8vpf1-MYxPtT-6f66He-eFn3Z-7WnCN3-6kTumQ-DkiBvz-DmzTRo-2emCiGf-DGQtDg-NkCw5y-6kTmNd-owQ6N-54aFJy-rdAHq8-5AfLpE-6kPdVK-2emCih7-5AfLpY-rYoMkG-4YzVyY-DrFopL-CRinwp-DPdzZJ-6kPbWP-Mpk3aw-6kTkCy-6kPj2H-AQSr6g-6kPmB8-6kPkQB-6g3dkV-6kTr57-6kPjS6) on Flickr. License CC BY-NC.)
 
@@ -90,7 +90,7 @@ Occasionally
 Student Information
 -------------------
 
-![Six students took this course when it was taught in Fall 2020.]({{< resource_file 22373daa-efa6-b629-d529-d5c1ae200954 >}})
+{{< resource 22373daa-efa6-b629-d529-d5c1ae200954 >}}
 
 ### Breakdown by Year
 
