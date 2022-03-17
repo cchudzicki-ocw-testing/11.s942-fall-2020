@@ -1,14 +1,13 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1d80cea4-e5ec-2a00-6bc2-74e1e386d5ad
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Ezra Haber Glenn describes various aspects of how he teaches _11.S942 Wanderings in Psychogeography_.
 
@@ -60,8 +59,7 @@ My only advice: don't worry about the finished product yet, have fun experimenti
 
 {{< /div-with-class >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -72,8 +70,7 @@ The students' grades were based on the following activities:
 - 20% Final project
 - 1% Random surrealist coin toss
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -87,10 +84,11 @@ None
 
 Occasionally
 
-Student Information
--------------------
+## Student Information
 
-{{< resource 22373daa-efa6-b629-d529-d5c1ae200954 >}}
+### Enrollment
+
+6 students
 
 ### Breakdown by Year
 
@@ -104,17 +102,14 @@ A mix of students in urban planning, architecture, and visual/media studies prog
 
 Students selected the class based simply on their interest in the topic.
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 2 times per week for 1.5 hour per session; 26 sessions total; mandatory attendance
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class, students completed assigned readings, wrote and posted weekly reflections, went on optional psychogeographic walks, and worked on their final projects.
