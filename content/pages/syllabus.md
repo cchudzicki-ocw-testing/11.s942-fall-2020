@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of 11.S942 and outlines the grading
+  policies and other logistical details pertaining to the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

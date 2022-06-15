@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of the assigned work in 11.S942 Wanderings in Psychogeography.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
