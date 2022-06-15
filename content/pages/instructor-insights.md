@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page provides information on how 11.S942 Wanderings in Psychogeography
+  was taught, including written reflections by the Instructor.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
