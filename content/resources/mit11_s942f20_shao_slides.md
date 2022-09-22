@@ -6,6 +6,7 @@ file: /courses/11-s942-wanderings-in-psychogeography-exploring-landscapes-of-his
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
